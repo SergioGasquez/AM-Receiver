@@ -3,3 +3,6 @@ Desing and assemblage of an homodyne receiver syntonizing a commercial broadcast
 
 
 ![Homodyne AM receiver](https://i.imgur.com/DI5tnaQ.jpg)
+
+![Homodyne AM receiver](https://i.imgur.com/idAwEOp.jpg)
+
